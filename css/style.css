@@ -7,3 +7,19 @@
  body {
     font-family:  "Lilita One", sans-serif;
  }
+ 
+ #hero {
+  background-image: url(../images/elyse-turton-hxhYwciVzvk-unsplash.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+ }
+
+ #hero .d-flex{
+  height: 50vh;
+ }
+
+ #hero .container .lead {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
